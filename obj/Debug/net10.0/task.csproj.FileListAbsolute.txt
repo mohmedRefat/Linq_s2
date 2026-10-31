@@ -1,0 +1,15 @@
+/home/mo/Downloads/LINQSolution-master/Linq_s2/bin/Debug/net10.0/task
+/home/mo/Downloads/LINQSolution-master/Linq_s2/bin/Debug/net10.0/task.deps.json
+/home/mo/Downloads/LINQSolution-master/Linq_s2/bin/Debug/net10.0/task.runtimeconfig.json
+/home/mo/Downloads/LINQSolution-master/Linq_s2/bin/Debug/net10.0/task.dll
+/home/mo/Downloads/LINQSolution-master/Linq_s2/bin/Debug/net10.0/task.pdb
+/home/mo/Downloads/LINQSolution-master/Linq_s2/obj/Debug/net10.0/task.GeneratedMSBuildEditorConfig.editorconfig
+/home/mo/Downloads/LINQSolution-master/Linq_s2/obj/Debug/net10.0/task.AssemblyInfoInputs.cache
+/home/mo/Downloads/LINQSolution-master/Linq_s2/obj/Debug/net10.0/task.AssemblyInfo.cs
+/home/mo/Downloads/LINQSolution-master/Linq_s2/obj/Debug/net10.0/task.csproj.CoreCompileInputs.cache
+/home/mo/Downloads/LINQSolution-master/Linq_s2/obj/Debug/net10.0/task.sourcelink.json
+/home/mo/Downloads/LINQSolution-master/Linq_s2/obj/Debug/net10.0/task.dll
+/home/mo/Downloads/LINQSolution-master/Linq_s2/obj/Debug/net10.0/refint/task.dll
+/home/mo/Downloads/LINQSolution-master/Linq_s2/obj/Debug/net10.0/task.pdb
+/home/mo/Downloads/LINQSolution-master/Linq_s2/obj/Debug/net10.0/task.genruntimeconfig.cache
+/home/mo/Downloads/LINQSolution-master/Linq_s2/obj/Debug/net10.0/ref/task.dll
